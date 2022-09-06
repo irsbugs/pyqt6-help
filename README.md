@@ -1,7 +1,9 @@
 # pyqt6-help
 
 If you have installed PyQt6 from PyPI, then this program will provide help on the topic that you select. 
-Select may be made through a Tree widget or by entering a search string.
+Selections may be made through a Tree widget or by entering a Search string.
+
+The panels are divided by a splitter, so using a mouse you may adjust the size of each panel.
 
 
 If it is detected that PyQt6 modules are not installed on you system / virtual environment, then you will
