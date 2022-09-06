@@ -3,7 +3,7 @@
 # pyqt6-help.py
 # 
 # If PyQt6 has been installed using pip then it should provide 29 modules
-# The modules are imported and  Tree is built to get help on any Module, a
+# The modules are imported and a  Tree is built to get help on any Module, a
 # Class in a module, or a Method in a Class.
 #
 # There is also a search facility to find help.
